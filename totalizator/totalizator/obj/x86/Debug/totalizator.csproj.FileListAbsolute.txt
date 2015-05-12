@@ -1,0 +1,9 @@
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\bin\Debug\totalizator.exe
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\bin\Debug\totalizator.pdb
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\obj\x86\Debug\totalizator.Form1.resources
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\obj\x86\Debug\totalizator.Properties.Resources.resources
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\obj\x86\Debug\totalizator.csproj.GenerateResource.Cache
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\obj\x86\Debug\totalizator.exe
+c:\users\мария\documents\visual studio 2010\Projects\totalizator\totalizator\obj\x86\Debug\totalizator.pdb
+C:\Users\Мария\documents\visual studio 2010\Projects\totalizator\totalizator\obj\x86\Debug\totalizator.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Documents\Visual Studio 2010\Projects\totalizator\totalizator\bin\Debug\Properties.Resources.Designer.cs.dll
